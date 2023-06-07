@@ -1,11 +1,21 @@
 ---
 id: fbmah
-title: 💳 How we integrate with Stripe
+title: 💳 How we integrate with Stripe - tutorial
 file_version: 1.1.2
-app_version: 1.8.0
+app_version: 1.10.1
 ---
 
-<br/>
+dsffsdasfdfsdsfddsfa
+
+adsf
+
+dsf
+
+sfd
+
+sdf
+
+dsf
 
 <br/>
 
